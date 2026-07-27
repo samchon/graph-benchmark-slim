@@ -54,7 +54,7 @@
         "psr/log": "^1.1 || ^2.0 || ^3.0"
     },
     "require-dev": {
-        "davidrjenni/scip-php": "0.0.2",
+        "davidrjenni/scip-php": "dev-main#71a5b117ec4c5dd2af302e363410e604e5df309e",
         "ext-simplexml": "*",
         "adriansuter/php-autoload-override": "^1.4 || ^2",
         "guzzlehttp/psr7": "^2.6",
